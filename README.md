@@ -15,7 +15,12 @@ After sucessfully editing personal dns.sh run the .sh file
 
 
 # Check server  
-User "systemctl status named " to check everything is ok or not
+User "systemctl status named " to check everything is ok or not  
+
+# Client server  
+Go to client server , switch to root  
+Change DNS adrress, give Server ip as new DNS  
+Check connection with ping
 
 
 
